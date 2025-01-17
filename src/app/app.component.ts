@@ -18,9 +18,6 @@ export class AppComponent implements OnInit {
     this.layoutComponent.test.bind(this,'BEST')()
 
     const arr1 = [1,2,3,4,5,6,7,8,9,  [1,2,3,4,5,6,7,8,9, [1,2,3,4, [1,2,3,4]]]];
-    // const arr2 = [1,2,3,4,5,6,7,8,9];
-
-    // arr1.flat(2)
 
     console.log('2222222',arr1.flat(3))
   }
