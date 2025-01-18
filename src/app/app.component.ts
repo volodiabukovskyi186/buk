@@ -29,5 +29,10 @@ export class AppComponent implements OnInit {
     console.log('BEST_CAR'+ data);
     console.log('BEST_CAR'+ data);
     console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
   }
 }
