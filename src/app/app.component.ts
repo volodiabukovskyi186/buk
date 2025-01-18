@@ -20,10 +20,14 @@ export class AppComponent implements OnInit {
     const arr1 = [1,2,3,4,5,6,7,8,9,  [1,2,3,4,5,6,7,8,9, [1,2,3,4, [1,2,3,4]]]];
 
     console.log('2222222',arr1.flat(3))
-
   }
 
    test(data: any) {
+    console.log('BEST_CAR1'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
+    console.log('BEST_CAR'+ data);
     console.log('BEST_CAR'+ data);
   }
 }
